@@ -2,9 +2,9 @@
 
 class JsonShow{
     constructor(id, nome, idade){
-        _id: id;
-        _nome: nome;
-        _idade: Number;
+        this._id = id;
+        this._nome = nome;
+        this._idade = idade;
     }
     get id(){
         return _id;
@@ -17,4 +17,11 @@ class JsonShow{
     }
 }
 
-const instacy = new JsonShow()
+
+const instacy = new  JsonShow(1, 'Ricardo',16);
+
+console.log(instacy);
+
+const mostrarJSON = JSON.stringify(instacy, null, 2);
+
+document.getElementById('jsonDisplay').textContent = mostrarJSON;
