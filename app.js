@@ -18,9 +18,12 @@ class JsonShow{
 }
 
 
-const instacy = new  JsonShow(1, 'Ricardo',16);
+const instacy = [
+    new  JsonShow(1, 'Ricardo',16),
+    new JsonShow(1,'Inst2',14)
+]
 
-console.log(instacy);
+//console.log(instacy);
 
 const mostrarJSON = JSON.stringify(instacy, null, 2);
 
