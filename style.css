@@ -1,0 +1,15 @@
+body {
+    font-family: monospace;
+    background: #f4f4f4;
+    padding: 20px;
+  }
+  pre {
+    background: #222;
+    color: #0f0;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+  }
+  .link{
+    text-decoration: none;
+  }
