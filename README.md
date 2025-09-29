@@ -4,8 +4,8 @@ Este Mini-Projeto vem com o objetivo que criar um site estático, para mostrar d
 
 
 ## Sumário
-- [Como usar](##Como Usar)
-- [Tecnologias](##Tecnologias Utilizadas)
+- [Como usar](#Como Usar)
+- [Tecnologias](#Tecnologias Utilizadas)
 
 
 ## Como Usar
