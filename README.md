@@ -24,4 +24,4 @@ Este Mini-Projeto vem com o objetivo que criar um site estático, para mostrar d
 - Java Script
 - Vercel
 
-## 
+
