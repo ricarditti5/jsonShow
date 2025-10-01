@@ -20,7 +20,7 @@ class JsonShow{
 
 const instacy = [
     new  JsonShow(1, 'Ricardo',16),
-    new JsonShow(1,'Inst2',14)
+    new JsonShow(2,'Inst2',14)
 ]
 
 //console.log(instacy);
